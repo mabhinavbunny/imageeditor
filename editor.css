@@ -1,0 +1,16 @@
+.sampleImage{
+    display:none;
+}
+
+#imagediv
+{
+    width:inherit;
+    height:100%;
+}
+
+.textcls{
+    background-color: transparent;
+}
+.addimage{
+    height: 100%; width: 100%; 
+}
